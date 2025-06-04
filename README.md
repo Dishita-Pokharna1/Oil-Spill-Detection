@@ -1,6 +1,7 @@
 # 🌊 Oil Spill Detection System — Spot. Alert. Act.
-[Home Page 1](./Screenshot%202025-06-05%20014811.png)
-[Home Page 2](./Screenshot%202025-06-05%20014817.png)
+![Home Page 1](./Screenshot%202025-06-05%20014811.png)
+
+![Home Page 2](./Screenshot%202025-06-05%20014817.png)
 
 
 
@@ -17,9 +18,8 @@ Traditional detection methods are often **delayed, expensive, or inefficient**.
 
 **Our Solution?**  
 A real-time web platform that detects oil spills from satellite imagery using RGB-based analysis and Machine Learning. The system immediately **alerts authorities**, visualizes affected areas, and integrates environmental forecasting for next-level decision-making.
-
-[Dashboard](./Screenshot%202025-06-05%20014827.png)
-[Vessels Page](./Screenshot%202025-06-05%20014835.png)
+![Dashboard](./Screenshot%202025-06-05%20014827.png)
+![Vessels Page](./Screenshot%202025-06-05%20014835.png)
 
 ---
 
@@ -50,8 +50,8 @@ A real-time web platform that detects oil spills from satellite imagery using RG
 - 📚 **Historical Data Comparison**  
   Track recurring regions and compare historical spill patterns.
   
-[Spill Incidents](./Screenshot%202025-06-05%20014842.png)
-[Alerts Page](./Screenshot%202025-06-05%20014855.png)
+![Spill Incidents](./Screenshot%202025-06-05%20014842.png)
+![Alerts Page](./Screenshot%202025-06-05%20014855.png)
 
 ---
 
@@ -68,7 +68,7 @@ A real-time web platform that detects oil spills from satellite imagery using RG
 ---
 
 ## 🧠 How It Works!
-[Final Section](./Screenshot%202025-06-05%20015420.png)
+![Final Section](./Screenshot%202025-06-05%20015420.png)
 
 
 
@@ -81,8 +81,6 @@ Compares image’s pixel data using RGB difference threshold.
 Threshold: ΔRGB > 1 ➝ potential anomaly.
 
 ML model trained on small annotated image samples fine-tunes the accuracy.
-
-![Uploading Screenshot 2025-06-05 014855.png…]()
 
 
 ## 📦 Installation & Setup
@@ -128,6 +126,6 @@ Just don’t let oil spill vibes spill into your codebase.
 💙 Every changemaker trying to save our oceans
 
 ☕ And coffee. Lots of it.
- [Support Page](./Screenshot%202025-06-05%20014905.png)
+ ![Support Page](./Screenshot%202025-06-05%20014905.png)
 
 
