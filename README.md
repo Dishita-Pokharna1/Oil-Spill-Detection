@@ -83,25 +83,18 @@ Threshold: ΔRGB > 1 ➝ potential anomaly.
 ML model trained on small annotated image samples fine-tunes the accuracy.
 
 
-## 📦 Installation & Setup
-
-### 🔧 Backend
-```bash
+📦 Installation & Setup
+🔧 Backend
 cd backend
 npm install
 npm start
-
 🎨 Frontend
 cd frontend
 npm install
 npm run dev
-Then go to http://localhost:3000 — or better yet, use the live hosted link.
-![Screenshot 2025-06-05 014842](https://github.com/user-attachments/assets/a5a5a4a1-dbe2-47bf-ab53-da08c51b76bf)
-
-
+Then open your browser at http://localhost:3000 — or even better, use the live hosted link if available.
 🖼️ Sample Input
-Upload a 16×16 satellite image. (Coming soon: auto-cropping for larger images)
-🖼️ Add your sample image here using: ![Sample](./assets/sample.png)
+Upload a 16×16 satellite image.
 
 📈 Future Scope
 🌍 Full-scale map integration with spill zones
@@ -116,16 +109,7 @@ Upload a 16×16 satellite image. (Coming soon: auto-cropping for larger images)
 
 📜 License
 MIT License — use it, remix it, improve it.
-Just don’t let oil spill vibes spill into your codebase.
+![Support Page](./Screenshot%202025-06-05%20014905.png)
 
-🙌 Acknowledgements
-🛰️ NASA + Copernicus for open-source satellite imagery
-
-🔍 scikit-learn + OpenCV for making image magic
-
-💙 Every changemaker trying to save our oceans
-
-☕ And coffee. Lots of it.
- ![Support Page](./Screenshot%202025-06-05%20014905.png)
 
 
