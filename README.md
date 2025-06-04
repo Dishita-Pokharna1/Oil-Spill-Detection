@@ -85,15 +85,22 @@ ML model trained on small annotated image samples fine-tunes the accuracy.
 
 ## 🚀 Installation & Setup
 
+
 ### Backend
+```bash
 cd backend
 npm install
 npm start
+```
 
-Frontend
+
+###Frontend
+```bash
+
 cd frontend
 npm install
 npm run dev
+```
 
 Then open your browser at http://localhost:3000 — or even better, use the live hosted link if available.
 
