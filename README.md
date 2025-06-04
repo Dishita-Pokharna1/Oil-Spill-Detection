@@ -86,12 +86,11 @@ ML model trained on small annotated image samples fine-tunes the accuracy.
 ## 🚀 Installation & Setup
 
 ### Backend
-
-```bash
 cd backend
 npm install
 npm start
-🎨 Frontend
+
+Frontend
 cd frontend
 npm install
 npm run dev
