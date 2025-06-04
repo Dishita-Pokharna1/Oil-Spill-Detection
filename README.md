@@ -93,10 +93,12 @@ cd frontend
 npm install
 npm run dev
 Then open your browser at http://localhost:3000 — or even better, use the live hosted link if available.
+
 🖼️ Sample Input
 Upload a 16×16 satellite image.
 
 📈 Future Scope
+
 🌍 Full-scale map integration with spill zones
 
 📲 Mobile alerts for field teams
@@ -109,6 +111,8 @@ Upload a 16×16 satellite image.
 
 📜 License
 MIT License — use it, remix it, improve it.
+
+
 ![Support Page](./Screenshot%202025-06-05%20014905.png)
 
 
