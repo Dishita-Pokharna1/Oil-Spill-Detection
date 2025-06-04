@@ -83,8 +83,11 @@ Threshold: ΔRGB > 1 ➝ potential anomaly.
 ML model trained on small annotated image samples fine-tunes the accuracy.
 
 
-📦 Installation & Setup
-🔧 Backend
+## 🚀 Installation & Setup
+
+### Backend
+
+```bash
 cd backend
 npm install
 npm start
@@ -92,22 +95,24 @@ npm start
 cd frontend
 npm install
 npm run dev
+
 Then open your browser at http://localhost:3000 — or even better, use the live hosted link if available.
 
 🖼️ Sample Input
 Upload a 16×16 satellite image.
 
-📈 Future Scope
+📈 Future Scope:
 
-🌍 Full-scale map integration with spill zones
+->🌍 Full-scale map integration with spill zones
 
-📲 Mobile alerts for field teams
+->📲 Mobile alerts for field teams
 
-🧠 Deep learning models for improved precision
+->🧠 Deep learning models for improved precision
 
-📡 Real-time satellite feed ingestion
+->📡 Real-time satellite feed ingestion
 
-🪪 Blockchain for tamper-proof spill records
+->🪪 Blockchain for tamper-proof spill records
+
 
 📜 License
 MIT License — use it, remix it, improve it.
